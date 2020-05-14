@@ -1,0 +1,19 @@
+{
+  "name": "expcourse",
+  "version": "1.0.0",
+  "description": "express server course",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express-test"
+  },
+  "author": "@williamxlr",
+  "license": "MIT"
+}
